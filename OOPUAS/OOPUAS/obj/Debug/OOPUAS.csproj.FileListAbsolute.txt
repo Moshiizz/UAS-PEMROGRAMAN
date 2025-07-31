@@ -1,8 +1,0 @@
-C:\Users\fauza\Documents\Coding\C#\OOPUAS\OOPUAS\bin\Debug\OOPUAS.exe.config
-C:\Users\fauza\Documents\Coding\C#\OOPUAS\OOPUAS\bin\Debug\OOPUAS.exe
-C:\Users\fauza\Documents\Coding\C#\OOPUAS\OOPUAS\bin\Debug\OOPUAS.pdb
-C:\Users\fauza\Documents\Coding\C#\OOPUAS\OOPUAS\obj\Debug\OOPUAS.csproj.AssemblyReference.cache
-C:\Users\fauza\Documents\Coding\C#\OOPUAS\OOPUAS\obj\Debug\OOPUAS.csproj.CoreCompileInputs.cache
-C:\Users\fauza\Documents\Coding\C#\OOPUAS\OOPUAS\obj\Debug\OOPUAS.exe
-C:\Users\fauza\Documents\Coding\C#\OOPUAS\OOPUAS\obj\Debug\OOPUAS.pdb
-C:\Users\fauza\Documents\Coding\C#\OOPUAS\OOPUAS\obj\Debug\OOPUAS.exe.config
